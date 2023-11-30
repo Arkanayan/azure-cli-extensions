@@ -62177,6 +62177,9 @@
                         "Intended Audience :: Developers",
                         "Intended Audience :: System Administrators",
                         "Programming Language :: Python",
+                        "Programming Language :: Python :: 3",
+                        "Programming Language :: Python :: 3.6",
+                        "Programming Language :: Python :: 3.7",
                         "Programming Language :: Python :: 3.8",
                         "License :: OSI Approved :: MIT License"
                     ],
@@ -62201,7 +62204,7 @@
                     "license": "MIT",
                     "metadata_version": "2.0",
                     "name": "stack-hci-vm",
-                    "summary": "Microsoft Azure Command-Line Tools AzureStackHCIClient Extension ",
+                    "summary": "Microsoft Azure Command-Line Tools Stack-HCi-VM Extension",
                     "version": "0.1.8"
                 },
                 "sha256Digest": "6bb5ef0fdfda3b2ce5322c9272de92a35cc1d19fcaab9503c97c740a3b6fd526"
